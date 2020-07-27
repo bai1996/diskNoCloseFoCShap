@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diskNoCloseFoCShap", "diskNoCloseFoCShap\diskNoCloseFoCShap.csproj", "{32FED3BA-E62D-4AC2-8926-C2D0292514DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FED3BA-E62D-4AC2-8926-C2D0292514DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FED3BA-E62D-4AC2-8926-C2D0292514DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FED3BA-E62D-4AC2-8926-C2D0292514DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FED3BA-E62D-4AC2-8926-C2D0292514DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2D5CFC-E4A7-4D36-B177-F014A771952B}
+	EndGlobalSection
+EndGlobal
