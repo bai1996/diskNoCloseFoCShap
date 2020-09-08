@@ -7,6 +7,7 @@
 - 特别是当游戏放在移动硬盘里，游戏载入到内存后，硬盘不会读取、写入，等开启了节电再次读取游戏数据的时候会造成音画不同步，如果出现此问题，那么开启此工具会解决此问题
 
 #### 使用说明
+
 - DNC下载地址：https://github.com/bai1996/diskNoCloseFoCShap/releases/tag/V1.0.0.0
 
 - 如果无法运行，请安装[.NET Framework 4.0 ] Runtime版，下载地址：http://go.microsoft.com/fwlink/?LinkID=287120
